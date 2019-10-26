@@ -95,9 +95,13 @@ THE SOFTWARE.
 
 @angular/material/form-field
 
+@angular/material/icon
+
 @angular/material/progress-spinner
 
 @angular/material/select
+
+@angular/material/snack-bar
 
 @angular/platform-browser
 MIT
